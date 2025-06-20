@@ -1,0 +1,11 @@
+fastapi==0.109.2
+uvicorn==0.29.0
+wandb==0.16.6
+nlpaug==1.1.10
+scikit-learn==1.4.2
+transformers==4.35.0
+torch==2.0.1
+Sastrawi==1.0.1
+tqdm==4.66.4
+pandas==2.2.2
+numpy==1.26.4
